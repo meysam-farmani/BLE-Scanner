@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ExampleProject.Base" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.ExampleProject" parent="Theme.ExampleProject.Base" >
+        <item name="android:windowBackground">#F2F2F2</item>
+    </style>
+    <style name="Theme.ExampleProject.Splash" parent="Theme.ExampleProject.Base" >
+<!--        <item name="android:windowBackground">@drawable/launcher_background</item>-->
+    </style>
+</resources>

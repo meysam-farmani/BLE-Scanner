@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExampleProject</string>
+    <string name="product">Product</string>
+    <string name="cart">Cart</string>
+    <string name="splash_text">Powered by Meysam Farmani</string>
+</resources>
