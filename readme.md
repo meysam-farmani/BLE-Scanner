@@ -44,13 +44,13 @@ Usage
 ## Screenshots
 
 ### 1. Splash Screen
-![Permissions Screen](images/splash_screen.jpg)
+<img src="images/splash_screen.jpg" alt="Permissions Screen" width="300"/>
 
 ### 2. Permissions Screen
-![Permissions Screen](images/permissions_screen.jpg)
+<img src="images/permissions_screen.jpg" alt="Permissions Screen" width="300"/>
 
 ### 3. Device Scanning Screen
-![Device Scanning Screen](images/device_scanning_screen.jpg)
+<img src="images/device_scanning_screen.jpg" alt="Device Scanning Screen" width="300"/>
 
 ### 4. Characteristics Screen
-![Characteristics Screen](images/characteristics_screen.jpg)
+<img src="images/characteristics_screen.jpg" alt="Characteristics Screen" width="300"/>
